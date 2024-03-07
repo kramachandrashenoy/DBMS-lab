@@ -1,2 +1,2 @@
 # DBMS-lab
-This repository contains code and pdfs of the questions for lab exam
+This repository contains codes and pdfs of the questions for DBMS lab exam.
